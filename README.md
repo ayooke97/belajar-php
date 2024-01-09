@@ -26,7 +26,7 @@ Variabel adalah tempat penyimpanan suatu nilai atau value
 
 Sintaks 
 
-$<nama variabel> = <nilai>;
+$(nama variabel) = (nilai);
 
 <h4>Cara menulis Variabel</h4>
 $nama = "Vinz"; // Tipe data String
