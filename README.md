@@ -14,3 +14,8 @@ Author : Vinz-Dev
      echo "Halo semuaaaaaa!!!";
 ?>
 ```
+### Output:
+```
+Halo semuaaaaaa!!!
+```
+
